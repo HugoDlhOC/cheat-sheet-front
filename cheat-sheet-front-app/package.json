@@ -2,6 +2,8 @@
   "name": "cheat-sheet-front-app",
   "version": "0.1.0",
   "private": true,
+  "author": "Hugo DELAHAYE",
+  "description": "A personal project aimed at bringing together front-end development resources that are very useful on a daily basis.",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",

@@ -391,7 +391,7 @@ export const dataOther = [
   },
   {
     title: "The Hello World Collection",
-    description: "Un ensemble de code de base pour tout langages",
+    description: "Un ensemble de code de base pour tous langages",
     srcImage: "./assets/images/helloworld.png",
     link: "http://helloworldcollection.de",
     type: "other",

@@ -389,4 +389,11 @@ export const dataOther = [
     link: "https://the100meterscroll.com/",
     type: "other",
   },
+  {
+    title: "The Hello World Collection",
+    description: "Un ensemble de code de base pour tout langages",
+    srcImage: "./assets/images/helloworld.png",
+    link: "http://helloworldcollection.de",
+    type: "other",
+  },
 ];
